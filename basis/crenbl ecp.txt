@@ -1,0 +1,1971 @@
+
+N: 3
+Name: Li
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 4
+Name: Be
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 5
+Name: B
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 6
+Name: C
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 7
+Name: N
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 8
+Name: O
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 9
+Name: F
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 10
+Name: Ne
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 11
+Name: Na
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 12
+Name: Mg
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 13
+Name: Al
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 14
+Name: Si
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 15
+Name: P
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 16
+Name: S
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 17
+Name: Cl
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 18
+Name: Ar
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 19
+Name: K
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 20
+Name: Ca
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 21
+Name: Sc
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 22
+Name: Ti
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 23
+Name: V
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 24
+Name: Cr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 25
+Name: Mn
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 26
+Name: Fe
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 27
+Name: Co
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 28
+Name: Ni
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 29
+Name: Cu
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 30
+Name: Zn
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 31
+Name: Ga
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 32
+Name: Ge
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 33
+Name: As
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 34
+Name: Se
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 35
+Name: Br
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 36
+Name: Kr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 37
+Name: Rb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 38
+Name: Sr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 39
+Name: Y
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 40
+Name: Zr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 41
+Name: Nb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 42
+Name: Mo
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 43
+Name: Tc
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 44
+Name: Ru
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 45
+Name: Rh
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 46
+Name: Pd
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 47
+Name: Ag
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 48
+Name: Cd
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 49
+Name: In
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 50
+Name: Sn
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 51
+Name: Sb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 52
+Name: Te
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 53
+Name: I
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 54
+Name: Xe
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 55
+Name: Cs
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 56
+Name: Ba
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 57
+Name: La
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 58
+Name: Ce
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 59
+Name: Pr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 60
+Name: Nd
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 61
+Name: Pm
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 62
+Name: Sm
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 63
+Name: Eu
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 64
+Name: Gd
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 65
+Name: Tb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 66
+Name: Dy
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 67
+Name: Ho
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 68
+Name: Er
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 69
+Name: Tm
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 70
+Name: Yb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 71
+Name: Lu
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 72
+Name: Hf
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 73
+Name: Ta
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 74
+Name: W
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 75
+Name: Re
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 76
+Name: Os
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 77
+Name: Ir
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 78
+Name: Pt
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 79
+Name: Au
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 80
+Name: Hg
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 81
+Name: Tl
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 82
+Name: Pb
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 83
+Name: Bi
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 84
+Name: Po
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 85
+Name: At
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 86
+Name: Rn
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 87
+Name: Fr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 88
+Name: Ra
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 89
+Name: Ac
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 90
+Name: Th
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 91
+Name: Pa
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 92
+Name: U
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 93
+Name: Np
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 94
+Name: Pu
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 95
+Name: Am
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 96
+Name: Cm
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 97
+Name: Bk
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 98
+Name: Cf
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 99
+Name: Es
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 100
+Name: Fm
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 101
+Name: Md
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 102
+Name: No
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 103
+Name: Lr
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 104
+Name: Rf
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 105
+Name: Db
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 106
+Name: Sg
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 107
+Name: Bh
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 108
+Name: Hs
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 109
+Name: Mt
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 110
+Name: Ds
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 111
+Name: Rg
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 112
+Name: Cn
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 113
+Name: Nh
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 114
+Name: Fl
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 115
+Name: Mc
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 116
+Name: Lv
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 117
+Name: Ts
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]
+
+
+N: 118
+Name: Og
+GatherBy[StringJoin[
+L= , Transpose[{angular_momentum /. electron_shells}], exponents /. electron_shellsexponents /. electron_shells, ReplaceAll[coefficients, electron_shells], 
+total= 2
+Exponents:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 2]], 
+Coefficients:
+, StringRiffle[Part[Transpose[{Transpose[{angular_momentum /. electron_shells}], {exponents /. electron_shells, exponents /. electron_shells}, ReplaceAll[coefficients, electron_shells]}], 3]]], StringJoin[
+L= , Part[First, 1], 
+total= 2
+Exponents:
+, StringRiffle[Part[First, 2]], 
+Coefficients:
+, StringRiffle[Part[First, 3]]]]

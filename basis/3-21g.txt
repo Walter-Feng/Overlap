@@ -1,0 +1,134 @@
+test
+N: 1
+Name: H
+
+L= 0
+total= 2
+Exponents:
+5.4471780 0.8245470
+Coefficients:
+0.1562850 0.9046910
+
+L= 0
+total= 1
+Exponents:
+0.1831920
+Coefficients:
+1.0000000
+
+
+N: 7
+Name: N
+
+L= 0
+total= 3
+Exponents:
+242.7660000 36.4851000 7.8144900
+Coefficients:
+0.0598657 0.3529550 0.7065130
+
+L= 0
+total= 2
+Exponents:
+5.4252200 1.1491500
+Coefficients:
+-0.4133010 1.2244200
+
+L= 0
+total= 1
+Exponents:
+0.2832050
+Coefficients:
+1.0000000
+
+L= 1
+total= 2
+Exponents:
+5.4252200 1.1491500
+Coefficients:
+0.2379720 0.8589530
+
+L= 1
+total= 1
+Exponents:
+0.2832050
+Coefficients:
+1.0000000
+
+
+N: 8
+Name: O
+
+L= 0
+total= 3
+Exponents:
+322.0370000 48.4308000 10.4206000
+Coefficients:
+0.0592394 0.3515000 0.7076580
+
+L= 0
+total= 2
+Exponents:
+7.4029400 1.5762000
+Coefficients:
+-0.4044530 1.2215600
+
+L= 0
+total= 1
+Exponents:
+0.3736840
+Coefficients:
+1.0000000
+
+L= 1
+total= 2
+Exponents:
+7.4029400 1.5762000
+Coefficients:
+0.2445860 0.8539550
+
+L= 1
+total= 1
+Exponents:
+0.3736840
+Coefficients:
+1.0000000
+
+
+N: 9
+Name: F
+
+L= 0
+total= 3
+Exponents:
+413.8010000 62.2446000 13.4340000
+Coefficients:
+0.0585483 0.3493080 0.7096320
+
+L= 0
+total= 2
+Exponents:
+9.7775900 2.0861700
+Coefficients:
+-0.4073270 1.2231400
+
+L= 0
+total= 1
+Exponents:
+0.4823830
+Coefficients:
+1.0000000
+
+L= 1
+total= 2
+Exponents:
+9.7775900 2.0861700
+Coefficients:
+0.2466800 0.8523210
+
+L= 1
+total= 1
+Exponents:
+0.4823830
+Coefficients:
+1.0000000
