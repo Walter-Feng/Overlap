@@ -1,3 +1,4 @@
+#ifndef __BASIS_H__
 #define __BASIS_H__
 
 #include <iostream>
@@ -98,3 +99,5 @@ void atomic_orbital_name_print(atomic_orbital * atom);
 
 double double_factorial(int n);
 double normalize(double alpha, int ax, int ay, int az);
+
+#endif

@@ -19,8 +19,6 @@
 #include <gsl/gsl_sort.h>
 #include <gsl/gsl_sort_vector.h>
 
-#endif
-
 typedef struct gsl_quad_tensor
 {
     int i;
@@ -80,3 +78,6 @@ void gsl_matrix_inverse_square_root(gsl_matrix* dest, gsl_matrix * src, int leng
 void gsl_eigen_Lowdin_diag(gsl_matrix * m, gsl_matrix * S, gsl_vector * eigen, gsl_matrix * eigenvec, int length);
 void gsl_matrix_normalize(gsl_matrix * coef,int length, int columns);
 void gsl_matrix_flip(gsl_matrix * dest,int height,int width);
+
+
+#endif

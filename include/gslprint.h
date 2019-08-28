@@ -14,8 +14,6 @@
 #include <gsl/gsl_poly.h>
 #include <gsl/gsl_integration.h>
 
-#endif
-
 void gsl_matrix_fprint(FILE * stream, gsl_matrix * target,int rows,int columns, char const * format);
 void gsl_vector_fprint(FILE * stream, gsl_vector * target,int length, char const * format);
 void gsl_matrix_printf(gsl_matrix * m, int rows, int columns, char const * format);
@@ -24,3 +22,5 @@ void gsl_vector_complex_fprint(FILE * stream, gsl_vector_complex * target, int l
 void gsl_matrix_complex_fprint(FILE * stream, gsl_matrix_complex * target, int rows, int columns, char const * format);
 void gsl_matrix_complex_printf(gsl_matrix_complex * target, int rows, int columns, char const * format);
 void gsl_vector_complex_fprint(gsl_vector_complex * target, int length, char const * format);
+
+#endif

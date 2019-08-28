@@ -1,4 +1,6 @@
-#include "../include/RHF.h"
+#include "../include/basis.h"
+#include "../include/integral.h"
+#include "../include/gslprint.h"
 
 #define STRING_MAX 50
 
@@ -21,6 +23,7 @@ int main(int argc, char const *argv[])
     char basis[STRING_MAX]; // file dir for basis
     char input[STRING_MAX]; // file dir for input file
     char reader[STRING_MAX]; // reader for interpretation of input file
+    char style[STRING_MAX] = "%10.5f";
 
     double coord_temp; //help converting the cartisian coordinates from Angstrom unit into atomic unit
 
@@ -39,6 +42,14 @@ int main(int argc, char const *argv[])
 
     for(i=1;i<argc;i++)
     {
+        if(strcmp(argv[i],"-p")==0)
+        {
+            strcpy(style,argv[i+1]);
+            i++;
+            continue;
+        }
+
+
         strcpy(input,argv[i]);
 
         inputfile = fopen(input,"r");
@@ -176,11 +187,11 @@ int main(int argc, char const *argv[])
 
         overlap = gsl_matrix_calloc(length,length);
 
-        orbital_S_matrix(overlap,orbitals);
+        orbital_S_matrix(overlap,orbitals,length);
 
         printf("Overlap matrix:\n");
 
-        gsl_matrix_printf(overlap,length,length,"%14.6f");
+        gsl_matrix_printf(overlap,length,length,style);
 
         el_num_counter = 0;
 
